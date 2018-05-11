@@ -59,7 +59,7 @@ Captains (1 vote each)
 They commit to developing a sustainable, inclusive, diverse, accessible and equitable civic technology community in collaboration with citizens, local government and community partners, championing Brigade, community and civic tech activities in their city.
 Responsible for building out via recruiting a diverse core leadership team that includes members of traditionally marginalized groups.
 Coordinates internal announcements to membership with the rest of the leadership committee via the private Core Members Slack channel
-Facilitates project communication
+Facilitates project communication.
 
 
 Developer Advocate (1 vote)
@@ -71,6 +71,7 @@ Help project developers get unstuck
 Communications Lead (1 vote)
 Coordinates external communication efforts, including but not limited to: contributing posts to the Civic Data Alliance website, press releases, social media, maintaining toolkits for project promotion and partnerships.
 Leads the effort to tell the story of Civic Data Alliance through activities such as: collecting blog posts and press links which showcase Civic Data Alliance’s projects and events.
+Is point of contact to Code for America's Communications staff
 Stores and maintains the Civic Data Alliance brand repo and guidelines and provides assets as needed.
 All public-facing communications should be run thru the approval process on github and Buffer
 

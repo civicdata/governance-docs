@@ -8,7 +8,6 @@ III. Core Membership:
 2. Core Membership Membership
 Number of core member members
 Core Membership Member Roles and Voting
-2 Captains (1 vote)
 Developer Advocate (1 vote)
 Project Delivery Lead (1 vote)
 Communications Lead (1 vote)

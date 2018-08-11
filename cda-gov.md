@@ -34,9 +34,8 @@ VII. Code of Conduct Ombudspeople
 
 
 I. Legal Entity Overview:
-As of January 2018, Civic Data Alliance  is part of the Code for America organization, a 501(c)3 non-profit. Civic Data Alliances’ relationship with Code for America is laid out in the [Memorandum of Understanding.](https://docs.google.com/document/d/1TtEWZ1-XY3WHJ9dU4KaMIjDx7wcFGw3lbM8O8iUt2Sw/edit) These bylaws highlight the governance structure of the Core Membership and how it will operate to steer Civic Data Alliance and make decisions on behalf of the general membership.
 II. Civic Data Alliance Project Based Philosophy:
-The Civic Data Alliance (CDA) is Louisville’s Code for America Brigade and we are focused on advocating for inclusion, diversity, equity, accessibility, openness and transparency in civic tech and open data, interested in liberating, improving, gathering, defining, and reporting on public data and the state of civic tech, while fostering an inclusive, diverse, equitable and accessible civic tech community.
+The Civic Data Alliance (CDA) is focused on advocating for inclusion, diversity, equity, accessibility, openness and transparency in civic tech and open data, interested in liberating, improving, gathering, defining, and reporting on public data and the state of civic tech, while fostering an inclusive, diverse, equitable and accessible civic tech community.
 
 III. Core Membership:
 1. Purpose:
@@ -45,47 +44,38 @@ The Civic Data Alliance Core Membership will operate on the assumption that acti
 The Core Membership of the Civic Data Alliance shall seek to build and maintain relationships with our community, citizens, municipal partners, and local governments  as long as these relationships do not come at the expense of the organization’s independence and ethics.
 The Civic Data Alliance Core Membership commits to creating an equitable, inclusive, diverse, accessible and safe Brigade community by developing governance which strives to support and amplify the voices of traditionally marginalized groups, the community members and shared leadership.
 2. Core Membership Leadership Committee
-Number of core member members
-Five elected core membership positions (Two Captains, Developer Advocate, Community Organizer, Communications Lead)
-Each elected position may designate an alternate to represent them at meetings in case of scheduling conflicts and help with any enumerated responsibilities of the position.
+Number of core members
+Max number of Core Members is 21
 Alternates cannot vote
 A minimum of 4 additional Core Members who are voted in by 3/4ths majority of existing core members.
 Core Membership must always have an odd number of members
 Core Membership Member Roles and Voting
 All Core Membership Leaders must be active in Civic Data Alliance activities: making maximum effort to attend HackTheVille nights and participating in projects, securing event space,  securing sponsorships, events and/or development and marketing activities.
 
-Captains (1 vote each)
- A volunteer who leads a local Brigade community.
-They commit to developing a sustainable, inclusive, diverse, accessible and equitable civic technology community in collaboration with citizens, local government and community partners, championing Brigade, community and civic tech activities in their city.
-Responsible for building out via recruiting a diverse core leadership team that includes members of traditionally marginalized groups.
-Coordinates internal announcements to membership with the rest of the leadership committee via the private Core Members Slack channel
-Facilitates project communication.
-
-
-Developer Advocate (1 vote)
+Developer Advocate
 Helps coordinate and choose build tools for project sustainability.
 Promotes best practices in the development cycle.
 Recruits new developers for projects.
 Help project developers get unstuck
 
-Communications Lead (1 vote)
+Communications Lead
 Coordinates external communication efforts, including but not limited to: contributing posts to the Civic Data Alliance website, press releases, social media, maintaining toolkits for project promotion and partnerships.
 Leads the effort to tell the story of Civic Data Alliance through activities such as: collecting blog posts and press links which showcase Civic Data Alliance’s projects and events.
-Is point of contact to Code for America's Communications staff
 Stores and maintains the Civic Data Alliance brand repo and guidelines and provides assets as needed.
 All public-facing communications should be run thru the approval process on github and Buffer
 
-Community Organizer (1 vote)
+Community Organizer
 Responsible for recruiting and welcoming new members (brief intro + Slack/tools integration) and helping them explore opportunities to join a team or get started with their own project.
 Volunteer engagement, keeping a database of volunteers and any individual that attends a hack night.
 When there isn’t much of that to be done, help with updates to web presence and maybe share some progress externally.
 Metrics: # return for a second meeting, new projects or project team members, tasks completed / shipped on their first visit
 
-
 Core Members (1 vote for each core member)
 Core members are expected to actively contribute to the growth and mission of the organization and to engage and support the leadership committee as needed.
+
 The CDA Core Membership is charged with maintaining the definition of an active project in a publicly viewable document.
 Core Members are responsible for checking the private core slack channel to keep up with all org announcements and events. All info is posted in the private Slack channel prior to publicizing, however, the onus is  on the individual Core Members to avail themselves of the information in a timely fashion or forfeit their input.
+
 In other words, those who show up make the decisions.
  4. Core Members Committee Meeting Details:
 Monthly - second Monday of each month,  45-60 min unless specified, prior to HackTheVille hack nights.
@@ -93,7 +83,7 @@ Agenda is set and published one week before meeting (one hack night must pass af
 Meeting Roles (every meeting):Two specific meeting roles shall be designated at each meeting of the core membership:
 
 Chairs
-The Core Membership captains will function as chairs. Chairs are responsible for:
+The Core Membership will function as chairs. Chairs are responsible for:
 facilitating Core Membership meetings and representing the Core Membership.
 Responsible with the Recorder for soliciting items for and establishing the agenda for each meeting.
 Ensure the Recorder has posted the agenda one week prior to the meeting
@@ -117,11 +107,6 @@ IV. Core Membership: MISCELLANEOUS
 
 1. Books and Records
 The Core Membership shall keep correct and complete books and records of account and shall keep minutes of the proceedings of all meetings, a record of all actions taken by its members without a meeting, and a record of all actions taken by any subcore members. In addition, the Core Membership shall keep a copy of these Bylaws as amended to date.
-Account Management
-Current members of leadership will share any Civic Data Alliance account login details that are pertinent to their roles, with newly elected officials immediately, with one week maximum, of the close of the election process. All elected members will have admin-level access to any accounts that are pertinent to their roles used in running the organization.
-Departing members of leadership will hand-off all documents, working files, account credentials, contacts, and automatically forward all communications that impact the organization immediately on notification to their successor. If their current role is not being filled for any reason or they are stepping down from their role, the departing member of leadership will forward all communication including the above information with the rest of the current elected members.
-All elected members of leadership are expected to immediately record any password changes in a location shared with the rest of the leadership team so as to maintain continued access.
-During a leadership transition, departing members of the leadership core member will have their access removed from leadership accounts by MGO within one week of the election close.
 
 2. Fiscal Year
 The fiscal year of the corporation shall be from January 1 to December 31 of each year.
@@ -136,8 +121,6 @@ The core member members and volunteers that participate or are served by this or
 CDA is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any CDA event or network activity, including talks. Anyone in violation of these policies may expelled from CDA network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; inappropriate messaging, unwelcome sexual attention; unwarranted exclusion; gaslighting, tone-policing, sealioning and patronizing language or action.
 If a participant engages in harassing behavior, the members may take any action they deem appropriate, including warning the offender or expulsion from CDA organization, network activities, events, and digital forums.
-
-
 
 5. Bylaw Amendment
 Amendments and/or alterations to these bylaws may be proposed by any core member to the Core Membership which may be adopted by a 2/3rds vote of the Core Membership at a regular meeting, provided that…
@@ -178,7 +161,7 @@ If a project fails to demonstrate progress for 2 of 3 HackTheVille nights, then 
 VI. Elections Protocol
 Elections occur annually during February to select Core Membership officer positions.
 The leadership roles of the Core Membership will be elected by the volunteer core member population of Civic Data Alliance, with a 3/4ths vote into office.
-All leadership members will commit to a one year term.
+All leadership members will commit to a two year term.
 The Core Membership may propose a question to Civic Data Alliance membership at its discretion, including the election of an officer for an open position.
 To ensure a fair election and nominations process, the Core Membership is responsible for:
 Ensuring online participation is available.

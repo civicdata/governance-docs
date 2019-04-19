@@ -125,7 +125,6 @@ If a participant engages in harassing behavior, the members may take any action 
 Amendments and/or alterations to these bylaws may be proposed by any core member to the Core Membership which may be adopted by a 2/3rds vote of the Core Membership at a regular meeting, provided that…
 Amendments do not affect the voting rights and processes of the Core Membership as laid out in Section 2.
 A minimum of 30 days is allowed between the proposal of and voting on the amendment.
-All amendments are consistent with the [Code for America  Memorandum of Understanding](https://docs.google.com/document/d/1TtEWZ1-XY3WHJ9dU4KaMIjDx7wcFGw3lbM8O8iUt2Sw/edit)
 
 
 V. Project Representation
